@@ -42,7 +42,7 @@
 
 package club.tinysme.lsongseven.leetcode.oj.leetcode.editor.cn;
 
-class CountNumberOfNiceSubarrays {
+public class CountNumberOfNiceSubarrays {
     public static void main(String[] args) {
         Solution solution = new CountNumberOfNiceSubarrays().new Solution();
     }

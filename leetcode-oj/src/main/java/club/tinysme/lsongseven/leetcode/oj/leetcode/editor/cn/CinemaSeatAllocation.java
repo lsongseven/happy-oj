@@ -61,7 +61,7 @@ package club.tinysme.lsongseven.leetcode.oj.leetcode.editor.cn;
 import java.util.HashMap;
 import java.util.Map;
 
-class CinemaSeatAllocation {
+public class CinemaSeatAllocation {
     public static void main(String[] args) {
         Solution solution = new CinemaSeatAllocation().new Solution();
     }

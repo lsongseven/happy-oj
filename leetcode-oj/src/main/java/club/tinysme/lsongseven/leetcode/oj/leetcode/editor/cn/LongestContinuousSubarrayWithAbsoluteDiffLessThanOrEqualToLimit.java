@@ -55,7 +55,7 @@ package club.tinysme.lsongseven.leetcode.oj.leetcode.editor.cn;
 import java.util.Deque;
 import java.util.LinkedList;
 
-class LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit {
+public class LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit {
     public static void main(String[] args) {
         Solution solution = new LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit().new Solution();
         System.out.println(solution.longestSubarray(new int[]{8, 2, 4, 7}, 4));
